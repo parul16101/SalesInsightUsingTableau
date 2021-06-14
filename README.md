@@ -20,7 +20,7 @@ MySQL database is available and star schema is followed for data analysis.
 Extracted Data from mySQL database to Tableau
 Cleaned the data
 Loaded transformed data into Tableau
-2) Build a Dashboard
+2) Build a Dashboard - 
 Build a proper dashboard that will help the user to get useful insights from the records. Use charts, pie chart, bar graph etc. for visualization purpose.
 3) Feedback on Dashboard from User
 As the stakeholders to use the Dashboard and provide feedback on what should be improved
