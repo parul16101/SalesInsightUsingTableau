@@ -26,7 +26,7 @@ Build a proper dashboard that will help the user to get useful insights from the
 As the stakeholders to use the Dashboard and provide feedback on what should be improved
 
 ## Dashboard using Tableau
-![Alt text](C:/Users/User/Pictures/Screenshot (933).jpg?raw=true "Title")
+![alt tag](https://github.com/parul16101/SalesInsightUsingTableau/blob/main/Screenshot%20(931).png)
 
 
 
